@@ -1,0 +1,154 @@
+[
+    {
+        "id": "0",
+        "name": "sebastian",
+        "last_name": "salinas",
+        "gender": "male",
+        "isPayed": false,
+        "password": "123456",
+        "correo": "seba@gmail.com",
+        "age": "38",
+        "weight": "70",
+        "height": "167",
+        "program": [{
+            "training_name": "Press banco con barra o mancuernas"
+        }]
+    },
+    
+    {
+        "id": "1",
+        "name": "mario",
+        "last_name": "jimenez",
+        "gender": "male",
+        "isPayed": true,
+        "password": "123456",
+        "correo": "mario@gmail.com",
+        "age": "29",
+        "weight": "75",
+        "height": "170",
+        "target": "Ser más mino",
+        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3"],
+        
+        "programa1":{
+            "pro": "Entrenamiento 1",
+            "warm_up": "5 minutos en Elíptica",
+            "training": [
+
+                {
+                    "training_name": "Press banco barra/mancuernas",
+                    "description": "4x12-15 repeticiones",
+                    "url": "http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                },
+
+                {
+                    "training_name": "Vuelos laterales",
+                    "description": "3-4 series x12-15 repeticiones",
+                    "url": "http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                },
+
+                {
+                    "training_name": "Press banco",
+                    "description": "4x12-15 repeticiones",
+                    "url": "http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                },
+
+                {
+                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                },
+
+                {
+                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"30 segundos de ejercicio"
+                },
+
+                {
+                    "hiit":"15 segundos de descanso"
+                }, 
+
+                {
+                    "hiit":"3 ejercicios"
+                },
+
+                {
+                    "hiit":"5 rondas"
+                }
+                    
+                
+            ]
+        },
+
+        "programa2":{
+            "pro":"Entrenamiento 2",
+            "warm_up": "5 minutos bicicleta",
+            "training": [
+
+                {
+                    "training_name": "Poleas",
+                    "description": "4x12-15 repeticiones",
+                    "url": "http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                },
+
+                {
+                    "training_name": "Vuelos laterales",
+                    "description": "3-4 series x12-15 repeticiones",
+                    "url": "http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                },
+
+                {
+                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                },
+
+                {
+                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"30 segundos de ejercicio"
+                },
+
+                {
+                    "hiit":"15 segundos de descanso"
+                }, 
+
+                {
+                    "hiit":"3 ejercicios"
+                },
+
+                {
+                    "hiit":"5 rondas"
+                }
+                    
+                
+            ]
+        }
+    
+    }
+    
+]

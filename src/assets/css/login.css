@@ -1,0 +1,20 @@
+form{
+    color: #fff;
+    margin: 4rem 0 0 0;
+    height: 100vh;
+}
+
+.form-control{
+    background-color: #252846;
+    color: #fff;
+}
+
+form .btn{
+    background-color: #7153fc;
+    color: #fff;
+    width: 100%;
+}
+
+form .btn:hover { 
+    background-color: #7153fc;
+}

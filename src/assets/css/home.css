@@ -1,0 +1,180 @@
+.work-on-you{
+    margin: 3rem 0 0 0;
+}
+
+.benefits{
+    display: flex;
+    justify-content: left;
+    margin: 1rem 0 0 0;
+    color: #fff;
+}
+
+.benefits i{
+    margin: 0 1rem 0 0;
+    padding: 1rem 1rem;
+    font-size: 2.2em;
+    border-radius: 10px;
+    background-color: #000;
+    text-align: center;
+}
+
+.benefits i p{
+    font-size: 0.5em;
+    margin: 0.5rem 0 0 0;
+}
+
+.desc-app{
+    margin: 6rem 0 0 0;
+}
+
+.desc-app img{
+    width: 100%;
+    
+}
+
+.desc-app h1{
+    margin: 2rem 0 0 0;
+    font-size: 1.4em;
+}
+
+.desc-app .list{
+    color: #fff;
+}
+
+.desc-app .list li{
+    margin: 1.5rem 0.5rem;
+    font-size: 1.1em;
+    list-style-type: none;
+}
+
+.desc-app .list li i{
+    padding: 0 0.5rem 0 0;
+    color: #ffff00;
+}
+
+
+.art{
+    margin: 6rem 0 3rem 0;
+}
+
+.art-1-img, .art-2-img{
+    height: 40vh;
+    width: 100vw;
+    background-size: cover;
+    -webkit-mask-image: linear-gradient(black, transparent);
+    mask-image: linear-gradient(black, transparent);
+}
+
+/* article 1 img */
+.art-1-img{
+    background-image: url(/src/assets/img/art-1-img.jpg);
+}
+
+/* article 2 img */
+.art-2-img{
+    background-image: url(/src/assets/img/art-2-img.jpg);
+}
+
+.art-text{
+    color: #fff;
+    width: 85%;
+    padding: 0 2rem 0 0;
+    font-size: 1.1em;   
+}
+
+
+.targets{
+    margin: 3rem 0 0 0;
+    padding: 0 0.5rem 0.5rem 0.5rem;
+    border-radius: 10px;
+    background-color: #000;
+}
+
+.targets h4{
+    font-size: 1em;
+    padding: 0.5rem 0;
+}
+
+.targets img{
+    width: 100%;
+    border-radius: 10px;
+    -webkit-mask-image: linear-gradient(black, transparent);
+    mask-image: linear-gradient(black, transparent);
+}
+
+
+/* tablet */
+@media screen and (min-width: 576px){
+
+    .desc-app .list li{
+        margin: 0.5rem 0;
+        font-size: 1.2em;
+    }
+
+    .art{
+        margin: 6rem 0 5rem 0;
+    }
+    
+    .art-1-img, .art-2-img{
+        height: 70vh;
+        
+    }
+    
+    .art-text{
+        padding: 0 3rem 0 0;
+        font-size: 1.3em;   
+    }
+
+    .targets{
+        padding: 1rem 1rem 1rem 1rem;  
+    }
+
+    .targets h4{
+        font-size: 1.2em;
+    }
+    
+}
+
+/* Desktop */
+@media screen and (min-width: 992px){
+
+    .desc-app h1{
+        font-size: 1.8em;
+    }
+
+    .desc-app .list{
+        padding: 0 0 0 1rem;
+    }
+
+    .desc-app .list li{
+        margin: 0.8rem 0;
+        font-size: 1.2em;
+    }
+
+    .desc-app .list li i{
+        font-size: 1.2em;
+    }
+
+    .benefits i{
+        font-size: 3.2em;    
+    }
+
+    .art{
+        margin: 8rem 0 7rem 0;
+    }
+    
+    .art-1-img, .art-2-img{
+        height: 100vh;
+        
+    }
+    
+    .art-text{
+        width: 70%;
+        font-size: 1.8em;   
+    }
+
+    .targets h4{
+        font-size: 1.4em;
+    }
+    
+} 

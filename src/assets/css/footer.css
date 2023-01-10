@@ -1,0 +1,56 @@
+footer{
+    color: #fff;
+    margin: 6rem 0 0 0;
+}
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem 0;
+    background-color: #252846;
+    
+}
+
+.contact .logo{
+    font-size: 1.8em;
+    margin: 0 0 1rem 0;
+}
+
+.whatsapp, .mail{
+    display: flex;
+    font-size: 0.9em;
+    margin: 0.5rem 0;
+}
+
+.whatsapp i, .mail i{
+    margin: 0 0.5rem 0 0;
+}
+
+
+.copyright{
+    background-color: #000;
+}
+
+.copyright p{
+    padding: 1.5rem 0 0.5rem 0;
+    margin: 0;
+    font-size: 0.8em;
+}
+
+.contact a{
+    text-decoration: none;
+    color: #fff;
+}
+
+/* desktop */
+@media screen and (min-width: 992px){
+    
+    .whatsapp, .mail{
+        font-size: 1em;
+    }
+
+    .copyright p{
+        font-size: 1em;
+    }
+}

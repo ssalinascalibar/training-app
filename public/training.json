@@ -1,0 +1,34 @@
+[
+    {
+        "id": "0",
+        "training_name": "Press banco con barra o mancuernas",
+        "description": "4x12-15 repeticiones",
+        "video": false,
+        "visible": false 
+    },
+    
+    {
+        "id": "1",
+        "training_name": "Press militar",
+        "description": "3-4 series x 12-15 repeticiones",
+        "video": false,
+        "visible": false 
+    },
+
+    {
+        "id": "2",
+        "training_name": "Vuelos laterales",
+        "description": "3-4 series x12-15 repeticiones",
+        "video": false,
+        "visible": false 
+    },
+
+    {
+        "id": "3",
+        "training_name": "Triceps en poleas",
+        "description": "3-4 series x12-15 repeticiones",
+        "video": false,
+        "visible": false 
+    }
+    
+]

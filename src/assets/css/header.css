@@ -1,0 +1,69 @@
+header{
+    color: #fff;
+}
+
+.hero{
+    background-image: url(/src/assets/img/header-1.jpeg);
+    height: 60vh;
+    width: 100vw;
+    background-size: cover;
+    -webkit-mask-image: linear-gradient(black, transparent);
+    mask-image: linear-gradient(black, transparent);
+    
+}
+
+.hero-title{
+    text-align: right;
+    padding: 0 0 0 0;
+    font-family: 'Anton', sans-serif;
+    font-size: 3.5em;
+    text-decoration: overline;
+
+}
+
+.hero-text{
+    text-align: right;
+    font-size: 1.3em;
+}
+
+
+/* tablet */
+@media screen and (min-width: 576px){
+
+    .hero{
+        height: 90vh;
+    }
+    
+    .hero-title{
+        font-size: 4.5em;
+    }
+    
+}
+
+/* Desktop */
+@media screen and (min-width: 992px){
+
+    header{
+        display: flex;
+        align-items: center;
+    }
+
+    .hero{
+        height: 100vh;
+    }
+    
+    .hero-title{
+        font-size: 5.5em;
+        text-decoration: none;
+    }
+
+    .hero-text{
+        font-size: 1.5em;
+    }
+
+    .hero-title, .hero-text{
+        margin: 0 2rem 0 0;
+    }
+    
+    
+} 
