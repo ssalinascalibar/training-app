@@ -7,7 +7,7 @@ export default function Logo() {
   return (
     <div>
         <div className="logo">
-            <i class="fa-solid fa-glasses"></i>
+            <i className="fa-solid fa-glasses"></i>
             <p>MJ</p>
         </div>
     </div>

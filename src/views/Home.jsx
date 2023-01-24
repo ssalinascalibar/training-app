@@ -58,16 +58,16 @@ export default function Home() {
         <div className="container">
           <section className="banner">
             <div className="row g-3">
-              <div className="col-sm-12 col-md-6">
+              <div className="col-sm-6 col-md-6">
                 <img src={banner1} alt="" />
               </div>
-              <div className="col-sm-12 col-md-6">
+              <div className="col-sm-6 col-md-6">
                 <img src={banner2} alt="" />
               </div>
-              <div className="col-sm-12 col-md-6">
+              <div className="col-sm-6 col-md-6">
                 <img src={banner3} alt="" />
               </div>
-              <div className="col-sm-12 col-md-6">
+              <div className="col-sm-6 col-md-6">
                 <img src={banner2} alt="" />
               </div>
             </div>
