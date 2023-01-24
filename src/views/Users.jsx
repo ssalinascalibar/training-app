@@ -163,6 +163,7 @@ export default function Users() {
                             <div className="card-body">
                               <h5 className="card-title">{p.training_name}</h5>
                               <p className="card-text">{p.description}</p>
+                              <p className="card-text">{p.description1}</p>
                             </div>
                           </div>
                         ))}
