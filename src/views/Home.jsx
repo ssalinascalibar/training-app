@@ -46,7 +46,7 @@ export default function Home() {
                     </li>
                     <li>
                       <i className="fa-solid fa-star"></i>Selecciona tu rutina
-                      de entrenamiento diaria de manera fácil y práctica.
+                      de entrenamiento diario de manera fácil y práctica.
                     </li>
                   </ul>
                 </div>
