@@ -174,6 +174,86 @@
                     "training_name": "Sentadilla Búlgara",
                     "description": "4x15 repeticiones por pierna",
                     "description1": "(en la 8 te detienes 15seg. y continúas)",
+                    "url": "https://youtube.com/shorts/P6pafkyXZyo?feature=share"
+                },
+
+                {
+                    "training_name": "Peso muerto sin tocar el suelo",
+                    "description": "3x20 repeticiones",
+                    "description1": "(en la 12 te detienes 15seg. y continúas)",
+                    "url": "https://youtube.com/shorts/M4_2MT6lrP0?feature=share"
+                },
+
+                {
+                    "training_name": "Estocada trasera con barra",
+                    "description": "3x15 repeticiones",
+                    "description1": "(en la 8 te detienes 15seg. y continúas)",
+                    "url": "https://youtube.com/shorts/GJI-5toedAI?feature=share"
+                },
+
+                {
+                    "training_name": "Extensión de cadera en polea",
+                    "description": "3x20 repeticiones",
+                    "description1": "(en la 12 te detienes 15seg. y continúas)",
+                    "url": "http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                },
+
+                {
+                    "training_name": "Elevación de talón sentado",
+                    "description": "3x20 repeticiones",
+                    "description1": "(en la 12 te detienes 15seg. y continúas)",
+                    "url": "http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                },
+
+                {
+                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                },
+
+                {
+                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"30 segundos de ejercicio"
+                },
+
+                {
+                    "hiit":"15 segundos de descanso"
+                }, 
+
+                {
+                    "hiit":"3 ejercicios"
+                },
+
+                {
+                    "hiit":"5 rondas"
+                }
+                    
+                
+            ]
+        },
+
+        "programa2":{
+            "pro": "Entrenamiento 2",
+            "warm_up": "5 minutos de Remadora",
+            "training": [
+
+                {
+                    "training_name": "Sentadilla Búlgara",
+                    "description": "4x15 repeticiones por pierna",
+                    "description1": "(en la 8 te detienes 15seg. y continúas)",
                     "url": "http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
                 },
 
@@ -252,20 +332,43 @@
             ]
         },
 
-        "programa2":{
-            "pro":"Entrenamiento 2",
-            "warm_up": "5 minutos bicicleta",
+        "programa3":{
+            "pro": "Entrenamiento 3",
+            "warm_up": "",
             "training": [
 
                 {
-                    "training_name": "Poleas",
-                    "description": "4x12-15 repeticiones",
-                    "url": "http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                    "training_name": "Elevación de talón en Smith",
+                    "description": "4x20 repeticiones",
+                    "description1": "(en la 12 te detienes 15seg. y continúas)",
+                    "url": "https://youtube.com/shorts/Lnpe8EdjOyg?feature=share"
                 },
 
                 {
-                    "training_name": "Vuelos laterales",
-                    "description": "3-4 series x12-15 repeticiones",
+                    "training_name": "Sentadilla libre",
+                    "description": "4x4-6 repeticiones",
+                    "description1": "2 series de aproximación 10-12 repeticiones",
+                    "url": "https://youtube.com/shorts/b1960dxj5gs?feature=share"
+                },
+
+                {
+                    "training_name": "Envión de cadera con barra",
+                    "description": "4x25-12-8-6 repeticiones",
+                    "description1": "Subiendo la carga entre series",
+                    "url": "https://youtube.com/shorts/pMYbVpHtW78?feature=share"
+                },
+
+                {
+                    "training_name": "Prensa unilateral",
+                    "description": "3x15 repeticiones",
+                    "description1": "(en la 8 te detienes 15seg. y continúas)",
+                    "url": "https://youtube.com/shorts/ba-Fw1G5C20?feature=share"
+                },
+
+                {
+                    "training_name": "Patada de glúteo en poleas",
+                    "description": "3x20 repeticiones",
+                    "description1": "(en la 12 te detienes 15seg. y continúas)",
                     "url": "http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
                 }
 
@@ -308,6 +411,8 @@
                 
             ]
         }
+
+        
     
     }
     
