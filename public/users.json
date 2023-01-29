@@ -153,16 +153,16 @@
 
     {
         "id": "2",
-        "name": "juan",
-        "last_name": "lagos",
+        "name": "felipe",
+        "last_name": "irribarren",
         "gender": "male",
         "isPayed": true,
         "password": "123456",
-        "correo": "juan@gmail.com",
-        "age": "",
-        "weight": "",
-        "height": "",
-        "target": "no se sabe",
+        "correo": "felipe.irribarren@gmail.com",
+        "age": "36",
+        "weight": "113",
+        "height": "182",
+        "target": "Bajar % de grasa, aumentar fuerza, mejorar postura",
         "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3"],
         
         "programa1":{

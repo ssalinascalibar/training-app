@@ -132,7 +132,7 @@ export default function Users() {
                 <h3>{programa.pro}</h3>
                 <div className="calentamiento">
                   <h4>
-                    <i class="fa-solid fa-person-running"></i> 
+                    <i className="fa-solid fa-person-running"></i> 
                   </h4>
                   <h4>Calentamiento</h4>
                   <p>{programa.warm_up}</p>
@@ -141,7 +141,7 @@ export default function Users() {
                   <div className="col">
                     <div className="training-box">
                       <h4>
-                        <i class="fa-solid fa-dumbbell"></i> Rutina
+                        <i className="fa-solid fa-dumbbell"></i> Rutina
                       </h4>
                       <hr className="hr-program" />
                       <div className="scrolling-wrapper">
@@ -176,7 +176,7 @@ export default function Users() {
                   <div className="col">
                     <div className="training-box">
                       <h4>
-                        <i class="fa-solid fa-heart-pulse"></i> Hiit
+                        <i className="fa-solid fa-heart-pulse"></i> Hiit
                       </h4>
                       <hr className="hr-program" />
                       <div className="scrolling-wrapper">
