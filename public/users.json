@@ -182,17 +182,21 @@
             "hiit_videos": [
 
                 {
-                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share",
+                    "url_hiit":"https://youtube.com/shorts/NGmX-Dprbpc?feature=share",
                     "description": "40 segundos Remo con mancuernas",
                     "description1": "+ 20 segundos de plancha tocando hombros"
                 },
 
                 {
-                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                    "url_hiit":"https://youtube.com/shorts/-or3_-_kh_8",
+                    "description": "40 segundos Thuster con mancuernas",
+                    "description1": "+ 20 segundos de Skipping"
                 },
 
                 {
-                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                    "url_hiit":"https://youtube.com/shorts/_R5odEjzjfc?feature=share",
+                    "description": "40 segundos Swing",
+                    "description1": "+ 20 segundos de Crunche con rotación"
                 }
                 
             ],
@@ -217,7 +221,7 @@
 
         "programa2":{
             "pro": "Entrenamiento 2",
-            "warm_up": "5 minutos de Remadora",
+            "warm_up": "",
             "training": [
 
                 {
@@ -267,15 +271,15 @@
             "hiit_videos": [
 
                 {
-                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                    "url_hiit":"s/n"
                 },
 
                 {
-                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                    "url_hiit":"s/n"
                 },
 
                 {
-                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                    "url_hiit":"s/n"
                 }
                 
             ],
@@ -283,19 +287,19 @@
             "hiit_list": [
                 
                 {
-                    "hiit":"30 segundos de ejercicio"
+                    "hiit":"s/n"
                 },
 
                 {
-                    "hiit":"15 segundos de descanso"
+                    "hiit":"s/n"
                 }, 
 
                 {
-                    "hiit":"3 ejercicios"
+                    "hiit":"s/n"
                 },
 
                 {
-                    "hiit":"5 rondas"
+                    "hiit":"s/n"
                 }
                     
                 
