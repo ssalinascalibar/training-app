@@ -132,7 +132,7 @@ export default function Users() {
                 <h3>{programa.pro}</h3>
                 <div className="calentamiento">
                   <h4>
-                    <i className="fa-solid fa-person-running"></i> 
+                    <i class="fa-solid fa-person-running"></i> 
                   </h4>
                   <h4>Calentamiento</h4>
                   <p>{programa.warm_up}</p>
@@ -164,6 +164,7 @@ export default function Users() {
                               <h5 className="card-title">{p.training_name}</h5>
                               <p className="card-text">{p.description}</p>
                               <p className="card-text">{p.description1}</p>
+                              <p className="card-text">{p.description2}</p>
                             </div>
                           </div>
                         ))}

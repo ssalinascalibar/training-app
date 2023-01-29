@@ -167,42 +167,14 @@
         
         "programa1":{
             "pro": "Entrenamiento 1",
-            "warm_up": "5 minutos de Remadora",
+            "warm_up": "",
             "training": [
 
                 {
-                    "training_name": "Sentadilla Búlgara",
-                    "description": "4x15 repeticiones por pierna",
-                    "description1": "(en la 8 te detienes 15seg. y continúas)",
-                    "url": "https://youtube.com/shorts/P6pafkyXZyo?feature=share"
-                },
-
-                {
-                    "training_name": "Peso muerto sin tocar el suelo",
-                    "description": "3x20 repeticiones",
-                    "description1": "(en la 12 te detienes 15seg. y continúas)",
-                    "url": "https://youtube.com/shorts/M4_2MT6lrP0?feature=share"
-                },
-
-                {
-                    "training_name": "Estocada trasera con barra",
-                    "description": "3x15 repeticiones",
-                    "description1": "(en la 8 te detienes 15seg. y continúas)",
-                    "url": "https://youtube.com/shorts/GJI-5toedAI?feature=share"
-                },
-
-                {
-                    "training_name": "Extensión de cadera en polea",
-                    "description": "3x20 repeticiones",
-                    "description1": "(en la 12 te detienes 15seg. y continúas)",
-                    "url": "https://youtube.com/shorts/LOR521aNSU8?feature=share"
-                },
-
-                {
-                    "training_name": "Elevación de talón sentado",
-                    "description": "3x20 repeticiones",
-                    "description1": "(en la 12 te detienes 15seg. y continúas)",
-                    "url": "http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                    "training_name": "Sin Información",
+                    "description": "Sin Información",
+                    "description1": "",
+                    "url": "Sin Información"
                 }
 
             ],   
@@ -210,7 +182,9 @@
             "hiit_videos": [
 
                 {
-                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share",
+                    "description": "40 segundos Remo con mancuernas",
+                    "description1": "+ 20 segundos de plancha tocando hombros"
                 },
 
                 {
@@ -226,19 +200,15 @@
             "hiit_list": [
                 
                 {
-                    "hiit":"30 segundos de ejercicio"
+                    "hiit":"4 series de 40 segundos"
                 },
 
                 {
-                    "hiit":"15 segundos de descanso"
+                    "hiit":"+ 20 segundos"
                 }, 
 
                 {
-                    "hiit":"3 ejercicios"
-                },
-
-                {
-                    "hiit":"5 rondas"
+                    "hiit":"x 20segundos de descanso"
                 }
                     
                 
@@ -338,38 +308,43 @@
             "training": [
 
                 {
-                    "training_name": "Elevación de talón en Smith",
-                    "description": "4x20 repeticiones",
-                    "description1": "(en la 12 te detienes 15seg. y continúas)",
-                    "url": "https://youtube.com/shorts/Lnpe8EdjOyg?feature=share"
+                    "training_name": "Peso muerto clásico",
+                    "description": "2 series de aproximación de 10 rep.",
+                    "description1": "3 series de 8 a 10rep.",
+                    "description2": "(subiendo el peso entre series)",
+                    "url": "https://youtube.com/shorts/M4_2MT6lrP0"
                 },
 
                 {
-                    "training_name": "Sentadilla libre",
-                    "description": "4x4-6 repeticiones",
-                    "description1": "2 series de aproximación 10-12 repeticiones",
-                    "url": "https://youtube.com/shorts/b1960dxj5gs?feature=share"
+                    "training_name": "Remo con barra con soporte",
+                    "description": "4 series de 15rep.",
+                    "description1": "(Haciendo una pausa en la 8rep. de 15seg.",
+                    "description2": "luego los 7 restantes)",
+                    "url": "https://youtube.com/shorts/rUK85fNaGmA?feature=share"
                 },
 
                 {
-                    "training_name": "Envión de cadera con barra",
-                    "description": "4x25-12-8-6 repeticiones",
-                    "description1": "Subiendo la carga entre series",
+                    "training_name": "Pullover con mancuernas",
+                    "description": "3 series de 20rep.",
+                    "description1": "(Haciendo una pausa en la 12rep. de 15seg.",
+                    "description2": "luego los 8 restantes)",
                     "url": "https://youtube.com/shorts/pMYbVpHtW78?feature=share"
                 },
 
                 {
-                    "training_name": "Prensa unilateral",
-                    "description": "3x15 repeticiones",
-                    "description1": "(en la 8 te detienes 15seg. y continúas)",
-                    "url": "https://youtube.com/shorts/ba-Fw1G5C20?feature=share"
+                    "training_name": "Remo polea alta agarre abierto",
+                    "description": "3 series de 15rep.",
+                    "description1": "(Haciendo una pausa en la 8rep. de 15seg.",
+                    "description2": "luego los 7 restantes)",
+                    "url": "https://youtube.com/shorts/AC2Nd5YJTv4"
                 },
 
                 {
-                    "training_name": "Patada de glúteo en polea",
-                    "description": "3x20 repeticiones",
-                    "description1": "(en la 12 te detienes 15seg. y continúas)",
-                    "url": "https://youtu.be/co0afG06X84"
+                    "training_name": "Remo polea baja agarre cerrado",
+                    "description": "3 series de 20rep.",
+                    "description1": "(Haciendo una pausa en la 12rep. de 15seg.",
+                    "description2": "luego las 8 restantes)",
+                    "url": "https://youtube.com/shorts/THo6HnpGE0Q?feature=share"
                 }
 
             ],   
@@ -377,15 +352,15 @@
             "hiit_videos": [
 
                 {
-                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                    "url_hiit":"s/n"
                 },
 
                 {
-                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                    "url_hiit":"s/n"
                 },
 
                 {
-                    "url_hiit":"http://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                    "url_hiit":"s/n"
                 }
                 
             ],
@@ -393,19 +368,19 @@
             "hiit_list": [
                 
                 {
-                    "hiit":"30 segundos de ejercicio"
+                    "hiit":"s/n"
                 },
 
                 {
-                    "hiit":"15 segundos de descanso"
+                    "hiit":"s/n"
                 }, 
 
                 {
-                    "hiit":"3 ejercicios"
+                    "hiit":"s/n"
                 },
 
                 {
-                    "hiit":"5 rondas"
+                    "hiit":"s/n"
                 }
                     
                 
