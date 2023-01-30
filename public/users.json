@@ -163,7 +163,7 @@
         "weight": "113",
         "height": "182",
         "target": "Bajar % de grasa, aumentar fuerza, mejorar postura",
-        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3"],
+        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3", "Entrenamiento 4"],
         
         "programa1":{
             "pro": "Entrenamiento 1",
@@ -404,8 +404,8 @@
                 {
                     "training_name": "Press militar de pie con barra",
                     "description": "4 series de 8 a 15rep.",
-                    "description1": "",
-                    "description2": "",
+                    "description1": "s/n",
+                    "description2": "s/n",
                     "url": "https://youtube.com/shorts/rUK85fNaGmA?feature=share"
                 },
 
