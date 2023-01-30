@@ -386,6 +386,99 @@
                     
                 
             ]
+        },
+
+        "programa4":{
+            "pro": "Entrenamiento 4",
+            "warm_up": "10min de Bicicleta o remadora",
+            "training": [
+
+                {
+                    "training_name": "Press banco con mancuernas",
+                    "description": "1 serie de calentamiento con 12kg",
+                    "description1": "3 series de 15rep.(haciendo una pausa en la 8rep de 15seg",
+                    "description2": "Luego los 7 restantes)",
+                    "url": "https://youtube.com/shorts/nQK1iPM8t7A?feature=share"
+                },
+
+                {
+                    "training_name": "Press militar de pie con barra",
+                    "description": "4 series de 8 a 15rep.",
+                    "description1": "",
+                    "description2": "",
+                    "url": "https://youtube.com/shorts/rUK85fNaGmA?feature=share"
+                },
+
+                {
+                    "training_name": "Vuelo lateral péndulo",
+                    "description": "3 series de 15rep.",
+                    "description1": "(Haciendo una pausa en la 8rep. de 15seg.",
+                    "description2": "luego los 7 restantes)",
+                    "url": "https://youtube.com/shorts/-zMFN9TKKMA?feature=share"
+                },
+
+                {
+                    "training_name": "Extensión de tríceps en poleas",
+                    "description": "3 series de 20rep.",
+                    "description1": "(Haciendo una pausa en la 12rep. de 15seg.",
+                    "description2": "luego los 8 restantes)",
+                    "url": "https://youtube.com/shorts/qfx5UQuM2Zg?feature=share"
+                },
+
+                {
+                    "training_name": "Flexiones de brazo",
+                    "description": "3 series de 20rep.",
+                    "description1": "(Haciendo una pausa en la 12rep. de 15seg.",
+                    "description2": "luego las 8 restantes)",
+                    "url": "https://youtube.com/shorts/THo6HnpGE0Q?feature=share"
+                },
+
+                {
+                    "training_name": "Jalón a la cara",
+                    "description": "3 series de 20rep.",
+                    "description1": "(Haciendo una pausa en la 12rep. de 15seg.",
+                    "description2": "luego las 8 restantes)",
+                    "url": "https://youtube.com/shorts/dZG6TQA8dd0?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"s/n"
+                },
+
+                {
+                    "url_hiit":"s/n"
+                },
+
+                {
+                    "url_hiit":"s/n"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"s/n"
+                },
+
+                {
+                    "hiit":"s/n"
+                }, 
+
+                {
+                    "hiit":"s/n"
+                },
+
+                {
+                    "hiit":"s/n"
+                }
+                    
+                
+            ]
         }
 
         
