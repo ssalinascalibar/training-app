@@ -167,7 +167,7 @@
         
         "programa1":{
             "pro": "Entrenamiento 1",
-            "warm_up": "",
+            "warm_up": "10min de Bicicleta o remadora",
             "training": [
 
                 {
@@ -204,15 +204,19 @@
             "hiit_list": [
                 
                 {
-                    "hiit":"4 series de 40 segundos"
+                    "hiit":"Primer ejercicio 40 segundos"
                 },
 
                 {
-                    "hiit":"+ 20 segundos"
+                    "hiit":"Segundo ejercicio 20 segundos"
                 }, 
 
                 {
-                    "hiit":"x 20segundos de descanso"
+                    "hiit":"20 segundos de descanso"
+                },
+
+                {
+                    "hiit":"4 series"
                 }
                     
                 
