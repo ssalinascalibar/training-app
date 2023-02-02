@@ -154,11 +154,11 @@
     {
         "id": "2",
         "name": "felipe",
-        "last_name": "irribarren",
+        "last_name": "iribarren",
         "gender": "male",
         "isPayed": true,
         "password": "123456",
-        "correo": "felipe.irribarren@gmail.com",
+        "correo": "felipe.iribarren@gmail.com",
         "age": "36",
         "weight": "113",
         "height": "182",
