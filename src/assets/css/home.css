@@ -60,6 +60,8 @@
     width: 100%;
     /* border: 8px solid #555;
     border-radius: 10px; */
+    filter: grayscale();
+    height: 100%;
 }
 
 

@@ -11,6 +11,9 @@ import descAppImg from "../assets/img/img-desc-app.png";
 import banner1 from "../assets/img/banner-1.jpeg";
 import banner2 from "../assets/img/banner-2.jpeg";
 import banner3 from "../assets/img/banner-3.jpeg";
+import banner4 from "../assets/img/banner-4.jpg";
+import banner5 from "../assets/img/banner-5.jpeg";
+import banner6 from "../assets/img/banner-6.jpeg";
 
 //css
 import home from "../assets/css/home.css";
@@ -58,17 +61,25 @@ export default function Home() {
         
           <section className="banner">
             <div className="row g-0">
-              <div className="col-6">
+              <div className="col-6 col-lg-3">
                 <img src={banner1} alt="" />
               </div>
-              <div className="col-6">
+              <div className="col-6 col-lg-3">
                 <img src={banner2} alt="" />
               </div>
-              <div className="col-6">
+              <div className="col-6 col-lg-3">
                 <img src={banner3} alt="" />
               </div>
-              <div className="col-6">
-                <img src={banner2} alt="" />
+              <div className="col-6 col-lg-3">
+                <img src={banner4} alt="" />
+              </div>
+            </div>
+            <div className="row g-0">
+              <div className="col-sm-12 col-lg-5">
+                <img src={banner5} alt="" />
+              </div>
+              <div className="col-sm-12 col-lg-7">
+                <img src={banner6} alt="" />
               </div>
             </div>
           </section>
