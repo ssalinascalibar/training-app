@@ -595,7 +595,7 @@
         "weight": "000",
         "height": "166",
         "target": "Aumentar fuerza, mejorar flexibilidad, movilidad y postura",
-        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3", "Entrenamiento 4", "Entrenamiento 5", "Entrenamiento 6"],
+        "programs":["Entrenamiento 1"],
         
         "programa1":{
             "pro": "Entrenamiento 1",
