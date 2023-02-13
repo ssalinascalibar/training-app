@@ -127,10 +127,10 @@ i{
     flex-direction: column;
 }
 
-.wrap-hiit{
+/* .wrap-hiit{
     display: inline-block;
     margin: 0 1rem 0 0;
-}
+} */
 
 .hiit-list{
     display: flex;

@@ -225,16 +225,24 @@ export default function Users() {
                       <hr className="hr-program" />
                       <div className="scrolling-wrapper">
                         {programa.hiit_videos?.map((video, i) => (
-                          <div key={i} className="wrap-hiit">
-                            <ReactPlayer
-                              className="react-player"
-                              url={video.url_hiit}
-                              type="video/mp4"
-                              controls
-                              loop
-                              width="100%"
-                              height="100%"
-                            />
+                          <div key={i} className="card">
+                            <div className="card-img-top">
+                              <div className="wrap">
+                                <ReactPlayer
+                                  className="react-player"
+                                  url={video.url_hiit}
+                                  type="video/mp4"
+                                  controls
+                                  loop
+                                  width="100%"
+                                  height="100%"
+                                />
+                              </div>
+                            </div>
+                            <div className="card-body">
+                              <p className="card-text">{video.description}</p>
+                              <p className="card-text">{video.description1}</p>
+                            </div>
                           </div>
                         ))}
                       </div>
