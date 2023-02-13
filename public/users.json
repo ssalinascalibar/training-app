@@ -167,6 +167,7 @@
         
         "programa1":{
             "pro": "Entrenamiento 1",
+            "warm_up_pro": "false",
             "warm_up": "10min de Bicicleta o remadora",
             "training": [
 
@@ -217,6 +218,478 @@
 
                 {
                     "hiit":"4 series"
+                }
+                    
+                
+            ]
+        },
+
+        "programa2":{
+            "pro": "Entrenamiento 2",
+            "warm_up_pro": "false",
+            "warm_up": "10min de Bicicleta o remadora",
+            "training": [
+
+                {
+                    "training_name": "Elevación de talón en Smith",
+                    "description": "4x20 repeticiones",
+                    "description1": "(en la 12 te detienes 15seg. y continúas)",
+                    "url": "https://youtube.com/shorts/Lnpe8EdjOyg"
+                },
+
+                {
+                    "training_name": "Sentadilla libre",
+                    "description": "4x4-6 repeticiones",
+                    "description1": "2 series de aproximación 10-12 repeticiones",
+                    "url": "https://youtube.com/shorts/b1960dxj5gs"
+                },
+
+                {
+                    "training_name": "Envión de cadera con barra",
+                    "description": "4x 25-12-8-6 repeticiones",
+                    "description1": "Subiendo la carga entre series",
+                    "url": "https://youtube.com/shorts/pMYbVpHtW78"
+                },
+
+                {
+                    "training_name": "Prensa unilateral",
+                    "description": "3x15 repeticiones",
+                    "description1": "(en la 8 te detienes 15seg. y continúas)",
+                    "url": "https://youtube.com/shorts/ba-Fw1G5C20"
+                },
+
+                {
+                    "training_name": "Banco romano",
+                    "description": "3x20 repeticiones",
+                    "description1": "(en la 12 te detienes 15seg. y continúas)",
+                    "url": "https://youtube.com/shorts/EMMDu6lDkwY?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"s/n"
+                },
+
+                {
+                    "url_hiit":"s/n"
+                },
+
+                {
+                    "url_hiit":"s/n"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"s/n"
+                },
+
+                {
+                    "hiit":"s/n"
+                }, 
+
+                {
+                    "hiit":"s/n"
+                },
+
+                {
+                    "hiit":"s/n"
+                }
+                    
+                
+            ]
+        },
+
+        "programa3":{
+            "pro": "Entrenamiento 3",
+            "warm_up_pro": "false",
+            "warm_up": "10min de Bicicleta o remadora",
+            "training": [
+
+                {
+                    "training_name": "Peso muerto clásico",
+                    "description": "2 series de aproximación de 10 rep.",
+                    "description1": "3 series de 8 a 10rep.",
+                    "description2": "(subiendo el peso entre series)",
+                    "url": "https://youtube.com/shorts/nQK1iPM8t7A?feature=share"
+                },
+
+                {
+                    "training_name": "Remo con barra con soporte",
+                    "description": "4 series de 15rep.",
+                    "description1": "(Haciendo una pausa en la 8rep. de 15seg.",
+                    "description2": "luego los 7 restantes)",
+                    "url": "https://youtube.com/shorts/rUK85fNaGmA?feature=share"
+                },
+
+                {
+                    "training_name": "Pullover con mancuernas",
+                    "description": "3 series de 20rep.",
+                    "description1": "(Haciendo una pausa en la 12rep. de 15seg.",
+                    "description2": "luego los 8 restantes)",
+                    "url": "https://youtube.com/shorts/-zMFN9TKKMA?feature=share"
+                },
+
+                {
+                    "training_name": "Remo polea alta agarre abierto",
+                    "description": "3 series de 15rep.",
+                    "description1": "(Haciendo una pausa en la 8rep. de 15seg.",
+                    "description2": "luego los 7 restantes)",
+                    "url": "https://youtube.com/shorts/AC2Nd5YJTv4"
+                },
+
+                {
+                    "training_name": "Remo polea baja agarre cerrado",
+                    "description": "3 series de 20rep.",
+                    "description1": "(Haciendo una pausa en la 12rep. de 15seg.",
+                    "description2": "luego las 8 restantes)",
+                    "url": "https://youtube.com/shorts/THo6HnpGE0Q?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"s/n"
+                },
+
+                {
+                    "url_hiit":"s/n"
+                },
+
+                {
+                    "url_hiit":"s/n"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"s/n"
+                },
+
+                {
+                    "hiit":"s/n"
+                }, 
+
+                {
+                    "hiit":"s/n"
+                },
+
+                {
+                    "hiit":"s/n"
+                }
+                    
+                
+            ]
+        },
+
+        "programa4":{
+            "pro": "Entrenamiento 4",
+            "warm_up_pro": "false",
+            "warm_up": "10min de Bicicleta o remadora",
+            "training": [
+
+                {
+                    "training_name": "Press banco con mancuernas",
+                    "description": "1 serie de calentamiento con 12kg",
+                    "description1": "3 series de 15rep.(haciendo una pausa ",
+                    "description2": "en la 8rep de 15seg luego los 7 restantes)",
+                    "url": "https://youtube.com/shorts/ppvaTW36-44?feature=share"
+                },
+
+                {
+                    "training_name": "Press militar de pie con barra",
+                    "description": "4x 8-10 repeticiones.",
+                    "description1": "s/n",
+                    "description2": "s/n",
+                    "url": "https://youtube.com/shorts/X9l4qnH3mrU?feature=share"
+                },
+
+                {
+                    "training_name": "Vuelo lateral péndulo",
+                    "description": "3 series de 15rep. por brazo",
+                    "description1": "(Haciendo una pausa en la 8rep. de 15seg.",
+                    "description2": "luego los 7 restantes)",
+                    "url": "https://youtu.be/XzOikCTNxAQ"
+                },
+
+                {
+                    "training_name": "Extensión de tríceps en poleas",
+                    "description": "3 series de 20rep.",
+                    "description1": "(Haciendo una pausa en la 12rep. de 15seg.",
+                    "description2": "luego los 8 restantes)",
+                    "url": "https://youtube.com/shorts/qfx5UQuM2Zg?feature=share"
+                },
+
+                {
+                    "training_name": "Flexiones de brazo",
+                    "description": "3 series de 20rep.",
+                    "description1": "(Haciendo una pausa en la 12rep. de 15seg.",
+                    "description2": "luego las 8 restantes)",
+                    "url": "https://youtu.be/E9oaB-PFjDs"
+                },
+
+                {
+                    "training_name": "Jalón a la cara",
+                    "description": "3 series de 20rep.",
+                    "description1": "(Haciendo una pausa en la 12rep. de 15seg.",
+                    "description2": "luego las 8 restantes)",
+                    "url": "https://youtube.com/shorts/dZG6TQA8dd0?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"s/n"
+                },
+
+                {
+                    "url_hiit":"s/n"
+                },
+
+                {
+                    "url_hiit":"s/n"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"s/n"
+                },
+
+                {
+                    "hiit":"s/n"
+                }, 
+
+                {
+                    "hiit":"s/n"
+                },
+
+                {
+                    "hiit":"s/n"
+                }
+                    
+                
+            ]
+        },
+
+        "programa5":{
+            "pro": "Entrenamiento 5",
+            "warm_up_pro": "false",
+            "warm_up": "10min de Bicicleta o remadora",
+            "training": [
+
+                {
+                    "training_name": "Sentadilla búlgara",
+                    "description": "4x15 repeticones por pierna",
+                    "description1": "(en la 8 te detienes 15seg. y continúas)",
+                    "description2": "",
+                    "url": "https://youtube.com/shorts/P6pafkyXZyo"
+                },
+
+                {
+                    "training_name": "Peso muerto sin tocar el suelo",
+                    "description": "3x20 repeticiones",
+                    "description1": "(en la 12 te detienes 15seg. y continúas)",
+                    "description2": "",
+                    "url": "https://youtube.com/shorts/M4_2MT6lrP0"
+                },
+
+                {
+                    "training_name": "Estocada trasera con barra",
+                    "description": "3x15 repeticiones",
+                    "description1": "(en la 8 te detienes 15seg. y continúas)",
+                    "description2": "",
+                    "url": "https://youtube.com/shorts/GJI-5toedAI"
+                },
+
+                {
+                    "training_name": "Extensión de cadera en polea",
+                    "description": "3x20 repeticiones",
+                    "description1": "(en la 12 te detienes 15seg. y continúas)",
+                    "description2": "",
+                    "url": "https://youtube.com/shorts/LOR521aNSU8"
+                },
+
+                {
+                    "training_name": "Banco romano",
+                    "description": "3x20 repeticiones",
+                    "description1": "(en la 12 te detienes 15seg. y continúas)",
+                    "description2": "",
+                    "url": "https://youtube.com/shorts/EMMDu6lDkwY"
+                },
+
+                {
+                    "training_name": "Elevación de talón sentado",
+                    "description": "3x20 repeticiones",
+                    "description1": "(en la 12 te detienes 15seg. y continúas)",
+                    "description2": "",
+                    "url": "https://youtube.com/shorts/Q-Fhwr1fY0c?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"s/n"
+                },
+
+                {
+                    "url_hiit":"s/n"
+                },
+
+                {
+                    "url_hiit":"s/n"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"s/n"
+                },
+
+                {
+                    "hiit":"s/n"
+                }, 
+
+                {
+                    "hiit":"s/n"
+                },
+
+                {
+                    "hiit":"s/n"
+                }
+                    
+                
+            ]
+        }
+
+        
+    
+    },
+
+    {
+        "id": "3",
+        "name": "catalina",
+        "last_name": "navarrete",
+        "gender": "female",
+        "isPayed": true,
+        "password": "123456",
+        "correo": "catalina.ntoro@gmail.com",
+        "age": "33",
+        "weight": "000",
+        "height": "166",
+        "target": "Aumentar fuerza, mejorar flexibilidad, movilidad y postura",
+        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3", "Entrenamiento 4", "Entrenamiento 5", "Entrenamiento 6"],
+        
+        "programa1":{
+            "pro": "Entrenamiento 1",
+            "warm_up_pro": "true",
+            "warm_up": [
+                
+                {
+                    "warm_up_name": "Circunducción de hombros con banda elástica",
+                    "description": "3 series de 15rep.",
+                    "description1": "La banda elástica no debe tocar la espalda",
+                    "description2": "Movimiento lento y controlado",
+                    "url": "https://youtu.be/RHUaIIcqZUU"
+                },
+
+                {
+                    "warm_up_name": "Retracción escapular con banda elástica",
+                    "description": "3 series de 15rep.",
+                    "description1": "Sostener 2 segundos ",
+                    "description2": "la retracción escapular",
+                    "url": "https://youtu.be/81GO-3DVHiQ"
+                }
+            
+            ],
+            
+            "training": [
+
+                {
+                    "training_name": "Dominada agarre amplio con banda elástica",
+                    "description": "4 series de 8-10rep.",
+                    "description1": "Estiramiento completo, que el mentón sobre pase la barra",
+                    "url": "https://youtube.com/shorts/bHKjFHucrak?feature=share"
+                },
+
+                {
+                    "training_name": "Remo explosivo con barra",
+                    "description": "4 series de 10-12rep.",
+                    "description1": "Falta información",
+                    "url": "https://youtube.com/shorts/qOHlSwipAfc?feature=share"
+                },
+
+                {
+                    "training_name": "Pullover con mancuernas",
+                    "description": "3 series de 10-12rep.",
+                    "description1": "Falta información",
+                    "url": "https://youtube.com/shorts/-zMFN9TKKMA"
+                },
+
+                {
+                    "training_name": "Polea alta agarre supino + polea baja agarre neutro",
+                    "description": "3 series de 10-15rep. Cada ejercicio",
+                    "description1": "Falta Información",
+                    "url": "https://youtube.com/shorts/EVhECAeAzZ8?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/UMIbWV9ZH3Q?feature=share",
+                    "description": "Remo con mancuernas 20rep.",
+                    "description1": "+ 30 segundos de escaladores"
+                },
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/HVt6vZmZpPc?feature=share",
+                    "description": "Trusther con mancuernas 20rep",
+                    "description1": "+ 30 segundos Crunche estilo navaja"
+                },
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/_R5odEjzjfc",
+                    "description": "40 segundos Swing",
+                    "description1": "+ 20 segundos de Crunche con rotación"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"Primer ejercicio 30 segundos"
+                },
+
+                {
+                    "hiit":"Segundo ejercicio 30 segundos"
+                }, 
+
+                {
+                    "hiit":"20 segundos de descanso"
+                },
+
+                {
+                    "hiit":"3 series"
                 }
                     
                 

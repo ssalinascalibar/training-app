@@ -15,8 +15,7 @@ import users from "../assets/css/users.css";
 
 //images
 import manProfile from "../assets/img/man-profile.svg";
-import womanProfile from '../assets/img/woman-profile.svg';
-
+import womanProfile from "../assets/img/woman-profile.svg";
 
 export default function Users() {
   const { userLogged } = useContext(Context);
@@ -96,15 +95,21 @@ export default function Users() {
             <div className="row">
               <div className="col-sm-12 col-md-4 col-lg-5">
                 <blockquote className="blockquote">
-                  <p><span>El entrenamiento nunca debería ser cómodo, debería empujarte mas allá de lo que eres capaz.</span></p>
+                  <p>
+                    <span>
+                      El entrenamiento nunca debería ser cómodo, debería
+                      empujarte mas allá de lo que eres capaz.
+                    </span>
+                  </p>
                 </blockquote>
               </div>
               <div className="col col-md-8 col-lg-7">
                 <div className="img-profile">
-                  {userLogged.gender === 'male'
-                    ? <img src={manProfile} alt="Man-Profile" />
-                    : <img src={womanProfile} alt="Woman-Profile" />
-                  }
+                  {userLogged.gender === "male" ? (
+                    <img src={manProfile} alt="Man-Profile" />
+                  ) : (
+                    <img src={womanProfile} alt="Woman-Profile" />
+                  )}
                 </div>
               </div>
             </div>
@@ -114,7 +119,9 @@ export default function Users() {
             <div className="col">
               <div className="program-training">
                 <h2>Programa de Entrenamiento</h2>
-                <h3>Objetivo: <span>{userLogged.target}</span></h3>
+                <h3>
+                  Objetivo: <span>{userLogged.target}</span>
+                </h3>
                 <div className="training-buttons">
                   {userLogged.programs.map((p, i) => (
                     <button
@@ -129,14 +136,50 @@ export default function Users() {
                   ))}
                 </div>
 
-                <h3>{programa.pro}</h3>
-                <div className="calentamiento">
-                  <h4>
-                    <i class="fa-solid fa-person-running"></i> 
-                  </h4>
-                  <h4>Calentamiento</h4>
-                  <p>{programa.warm_up}</p>
+                <div className="row">
+                  <div className="col">
+                    <h3>{programa.pro}</h3>
+
+                    <div className="training-box">
+                      <h4>
+                        <i class="fa-solid fa-person-running"></i> Calentamiento
+                      </h4>
+                      <hr className="hr-program" />
+                      {programa.warm_up_pro === "false" ? (
+                        <div className="calentamiento">
+                          <p className="calentamiento-p">{programa.warm_up}</p>
+                        </div>
+                      ) : (
+                        <div className="scrolling-wrapper">
+                          {programa.warm_up?.map((p, i) => (
+                            <div key={i} className="card">
+                              <div className="card-img-top">
+                                <div className="wrap">
+                                  <ReactPlayer
+                                    className="react-player"
+                                    url={p.url}
+                                    type="video/mp4"
+                                    controls={true}
+                                    loop
+                                    width="100%"
+                                    height="100%"
+                                  />
+                                </div>
+                              </div>
+                              <div className="card-body">
+                                <h5 className="card-title">{p.warm_up_name}</h5>
+                                <p className="card-text">{p.description}</p>
+                                <p className="card-text">{p.description1}</p>
+                                <p className="card-text">{p.description2}</p>
+                              </div>
+                            </div>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  </div>
                 </div>
+
                 <div className="row">
                   <div className="col">
                     <div className="training-box">
