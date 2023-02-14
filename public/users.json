@@ -595,7 +595,7 @@
         "weight": "62",
         "height": "166",
         "target": "Aumentar fuerza, mejorar flexibilidad, movilidad y postura",
-        "programs":["Entrenamiento 1", "Entrenamiento 2"],
+        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3"],
         
         "programa1":{
             "pro": "Entrenamiento 1",
@@ -750,6 +750,100 @@
 
                 {
                     "hiit":"Segundo ejercicio 30 segundos"
+                }, 
+
+                {
+                    "hiit":"20 segundos de descanso"
+                },
+
+                {
+                    "hiit":"3 series"
+                }
+                    
+                
+            ]
+        },
+
+        "programa3":{
+            "pro": "Entrenamiento 3",
+            "warm_up_pro": "true",
+            "warm_up": [
+                
+                {
+                    "warm_up_name": "Circunducción de hombros",
+                    "description": "3 series de 15rep.",
+                    "description1": "Movimiento lento y controlado",
+                    "description2": "s/i",
+                    "url": "https://youtu.be/RHUaIIcqZUU"
+                },
+
+                {
+                    "warm_up_name": "Retracción escapular",
+                    "description": "3 series de 15rep.",
+                    "description1": "Sostener 2 segundos la contracción ",
+                    "description2": "s/i",
+                    "url": "https://youtu.be/81GO-3DVHiQ"
+                }
+            
+            ],
+            
+            "training": [
+
+                {
+                    "training_name": "Press plano con mancuernas",
+                    "description": "1 serie de 15rep.",
+                    "description1": "4 series de 6-8rep(subiendo la carga entre series)",
+                    "url": "https://youtube.com/shorts/ppvaTW36-44"
+                },
+
+                {
+                    "training_name": "Cruce de poleas",
+                    "description": "4 series de 12-15rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/qOHlSwipAfc?feature=share"
+                },
+
+                {
+                    "training_name": "Press militar con barra",
+                    "description": "4 series de 8-10rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/X9l4qnH3mrU"
+                },
+
+                {
+                    "training_name": "Vuelos laterales 1 1/2",
+                    "description": "3 series de 12-15rep",
+                    "description1": "s/i",
+                    "url": "https://youtu.be/XzOikCTNxAQ"
+                },
+
+                {
+                    "training_name": "Jalón a la cara",
+                    "description": "3 series de 15-20rep",
+                    "description1": "Sostener 2 segundo la contracción",
+                    "url": "https://youtube.com/shorts/dZG6TQA8dd0?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/UMIbWV9ZH3Q?feature=share",
+                    "description": "Press explosivo con pesas rusas 12rep",
+                    "description1": "+ 30 segundos flexiones de brazos"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"s/i"
+                },
+
+                {
+                    "hiit":"s/i"
                 }, 
 
                 {
