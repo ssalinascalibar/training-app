@@ -161,6 +161,8 @@ export default function Users() {
                                     type="video/mp4"
                                     controls={true}
                                     loop
+                                    volume={0}
+                                    muted={true}
                                     width="100%"
                                     height="100%"
                                   />
@@ -198,6 +200,8 @@ export default function Users() {
                                   type="video/mp4"
                                   controls={true}
                                   loop
+                                  volume={0}
+                                  muted={true}
                                   width="100%"
                                   height="100%"
                                 />
@@ -234,6 +238,8 @@ export default function Users() {
                                   type="video/mp4"
                                   controls
                                   loop
+                                  volume={0}
+                                  muted={true}
                                   width="100%"
                                   height="100%"
                                 />
