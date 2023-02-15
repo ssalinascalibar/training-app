@@ -38,6 +38,8 @@ export default function Users() {
       setPrograma(userLogged.programa4);
     } else if (p === "Entrenamiento 5") {
       setPrograma(userLogged.programa5);
+    } else if (p === "Entrenamiento 6") {
+      setPrograma(userLogged.programa6);
     } else {
       alert("Ha ocurrido un error, vuelve a seleccionar tu entrenamiento");
     }
