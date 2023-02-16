@@ -595,7 +595,7 @@
         "weight": "62",
         "height": "166",
         "target": "Aumentar fuerza, mejorar flexibilidad, movilidad y postura",
-        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3"],
+        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3", "Entrenamiento 4"],
         
         "programa1":{
             "pro": "Entrenamiento 1",
@@ -852,6 +852,88 @@
 
                 {
                     "hiit":"3 series"
+                }
+                    
+                
+            ]
+        },
+
+        "programa4":{
+            "pro": "Entrenamiento 4",
+            "warm_up_pro": "false",
+            "warm_up": "10min de bicicleta",
+            "training": [
+
+                {
+                    "training_name": "Peso muerto zumo",
+                    "description": "1 serie de 15rep.",
+                    "description1": "4 series de 6-8rep.(subiendo la carga entre series)",
+                    "url": "https://youtube.com/shorts/AULMT4rvlHY?feature=share"
+                },
+
+                {
+                    "training_name": "Peso muerto piernas rectas",
+                    "description": "3 series de 10-12rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/gNcg4-5QwGk?feature=share"
+                },
+
+                {
+                    "training_name": "Estocada trasera con barra",
+                    "description": "3 series de 12-15rep. por pierna",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/GJI-5toedAI?feature=share"
+                },
+
+                {
+                    "training_name": "Extensión de cadera en poleas",
+                    "description": "3 series de 15rep.",
+                    "description1": "(en la 8 te detienes 15seg. y continúas)",
+                    "url": "https://youtube.com/shorts/LOR521aNSU8?feature=share"
+                },
+
+                {
+                    "training_name": "Patada de glúteo en poleas",
+                    "description": "3 series de 15-20rep.",
+                    "description1": "Sostener 2 segundos la contracción",
+                    "url": "https://youtu.be/co0afG06X84"
+                },
+
+                {
+                    "training_name": "Abductor con banda elástica",
+                    "description": "3 series de 10rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/JiAcr40F_bA?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"s/i",
+                    "description": "s/i",
+                    "description1": "s/i"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"s/i"
+                },
+
+                {
+                    "hiit":"s/i"
+                }, 
+
+                {
+                    "hiit":"s/i"
+                },
+
+                {
+                    "hiit":"s/i"
                 }
                     
                 
