@@ -144,7 +144,7 @@ export default function Users() {
 
                     <div className="training-box">
                       <h4>
-                        <i class="fa-solid fa-person-running"></i> Calentamiento
+                        <i className="fa-solid fa-person-running"></i> Calentamiento
                       </h4>
                       <hr className="hr-program" />
                       {programa.warm_up_pro === "false" ? (

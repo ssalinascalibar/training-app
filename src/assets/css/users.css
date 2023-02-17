@@ -125,8 +125,9 @@ span{
 .scrolling-wrapper {
     overflow-x: scroll;
     overflow-y: hidden;
-    /* white-space: nowrap; */
     display: flex;
+    padding: 0 0 1rem 0;
+    /* white-space: nowrap; */
     
 }
 
@@ -188,6 +189,7 @@ i{
 
     .card{
         flex: 0 0 30%;
+        scroll-snap-align: none;
         
     }
 
