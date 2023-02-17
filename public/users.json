@@ -595,7 +595,7 @@
         "weight": "62",
         "height": "166",
         "target": "Aumentar fuerza, mejorar flexibilidad, movilidad y postura",
-        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3", "Entrenamiento 4"],
+        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3", "Entrenamiento 4", "Entrenamiento 5"],
         
         "programa1":{
             "pro": "Entrenamiento 1",
@@ -904,6 +904,107 @@
                     "description": "3 series de 10rep.",
                     "description1": "s/i",
                     "url": "https://youtube.com/shorts/JiAcr40F_bA?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"s/i",
+                    "description": "s/i",
+                    "description1": "s/i"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"s/i"
+                },
+
+                {
+                    "hiit":"s/i"
+                }, 
+
+                {
+                    "hiit":"s/i"
+                },
+
+                {
+                    "hiit":"s/i"
+                }
+                    
+                
+            ]
+        },
+
+        "programa5":{
+            "pro": "Entrenamiento 5",
+            "warm_up_pro": "true",
+            "warm_up": [
+                
+                {
+                    "warm_up_name": "Circunducción de hombros con banda elástica",
+                    "description": "3 series de 15rep.",
+                    "description1": "s/i",
+                    "description2": "s/i",
+                    "url": "https://youtu.be/RHUaIIcqZUU"
+                },
+
+                {
+                    "warm_up_name": "Retracción escapular con banda elástica",
+                    "description": "3 series de 15rep.",
+                    "description1": "s/i",
+                    "description2": "s/i",
+                    "url": "https://youtu.be/81GO-3DVHiQ"
+                }
+            
+            ],
+            
+            "training": [
+
+                {
+                    "training_name": "Press plano con mancuernas",
+                    "description": "1 serie de 15rep.",
+                    "description1": "4 series de 6-8rep(subiendo la carga entre series)",
+                    "url": "https://youtube.com/shorts/ppvaTW36-44?feature=share"
+                },
+
+                {
+                    "training_name": "Apertura inclinada en poleas",
+                    "description": "4 series de 12-15rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/D2zra17cfeQ?feature=share"
+                },
+
+                {
+                    "training_name": "Vuelo lateral péndulo",
+                    "description": "3 series de 10-12rep por brazo",
+                    "description1": "s/i",
+                    "url": "https://youtu.be/XzOikCTNxAQ"
+                },
+
+                {
+                    "training_name": "Remo alto hammer",
+                    "description": "3 series de 12rep",
+                    "description1": "(Subiendo la carga entre series)",
+                    "url": "https://youtube.com/shorts/5H53yW5rfNw?feature=share"
+                },
+
+                {
+                    "training_name": "Remo bajo hammer",
+                    "description": "3 series de 12rep",
+                    "description1": "(Subiendo la carga entre series)",
+                    "url": "https://youtube.com/shorts/CJk93fGWBj8?feature=share"
+                },
+
+                {
+                    "training_name": "Press francés inclinado + barras agarre supino",
+                    "description": "3 series de 12rep",
+                    "description1": "+ 3 series al fallo múscular",
+                    "url": "https://youtube.com/shorts/HFGgL0i21rE?feature=share"
                 }
 
             ],   
