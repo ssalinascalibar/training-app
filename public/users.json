@@ -4,15 +4,98 @@
         "name": "sebastian",
         "last_name": "salinas",
         "gender": "male",
-        "isPayed": false,
+        "isPayed": true,
         "password": "123456",
-        "correo": "seba@gmail.com",
+        "correo": "ssalinascalibar@gmail.com",
         "age": "38",
-        "weight": "70",
+        "weight": "69",
         "height": "167",
-        "program": [{
-            "training_name": "Press banco con barra o mancuernas"
-        }]
+        "target": "De todo",
+        "programs":["Entrenamiento 1"],
+        
+        "programa1":{
+            "pro": "Entrenamiento 1",
+            "warm_up_pro": "false",
+            "warm_up": "s/i",
+            "training": [
+
+                {
+                    "training_name": "Extensión de piernas en máquina + flexión de piernas en máquina",
+                    "description": "3 series de 12-15rep",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/M0ojftrEdnY?feature=share"
+                },
+
+                {
+                    "training_name": "Sentadilla libre",
+                    "description": "4 series de 8-10rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/b1960dxj5gs?feature=share"
+                },
+
+                {
+                    "training_name": "Envión de cadera con barra",
+                    "description": "3 series de 10-12rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/pMYbVpHtW78?feature=share"
+                },
+
+                {
+                    "training_name": "Sentadilla búlgara",
+                    "description": "3 series de 10-12rep por pierna",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/P6pafkyXZyo?feature=share"
+                },
+
+                {
+                    "training_name": "Elevación de talón en Smith",
+                    "description": "3 series de 15-20rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/Lnpe8EdjOyg?feature=share"
+                }
+
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"s/i",
+                    "description": "s/i",
+                    "description1": "s/i"
+                },
+
+                {
+                    "url_hiit":"s/i",
+                    "description": "s/i",
+                    "description1": "s/i"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"Swing 40 segundos"
+                },
+
+                {
+                    "hiit":"Escaladores 30 segundos"
+                }, 
+
+                {
+                    "hiit":"20 segundos de descanso"
+                },
+
+                {
+                    "hiit":"3 series"
+                }
+                    
+                
+            ]
+        }
+  
+    
     },
     
     {
