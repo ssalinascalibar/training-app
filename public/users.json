@@ -1144,60 +1144,56 @@
         
         "programa1":{
             "pro": "Entrenamiento 1",
-            "warm_up_pro": "false",
-            "warm_up": "s/i",
+            "warm_up_pro": "true",
+            "warm_up": [
+                
+                {
+                    "warm_up_name": "Circunducción con banda elástica",
+                    "description": "3 series de 15rep.",
+                    "description1": "s/i",
+                    "description2": "s/i",
+                    "url": "https://youtu.be/RHUaIIcqZUU"
+                },
+
+                {
+                    "warm_up_name": "Pullover con banda elástica",
+                    "description": "3 series de 15rep.",
+                    "description1": "s/i",
+                    "description2": "s/i",
+                    "url": "https://youtube.com/shorts/ZQpBQ0OuTYU?feature=share"
+                }
+            
+            ],
+            
             "training": [
 
                 {
-                    "training_name": "Extensión de piernas en máquina + flexión de piernas en máquina",
-                    "description": "3 series de 12-15rep",
-                    "description1": "(Subiendo la carga entre series)",
-                    "url": "https://youtube.com/shorts/M0ojftrEdnY?feature=share"
+                    "training_name": "Peso muerto",
+                    "description": "1 serie de 15rep.",
+                    "description1": "3 series de 8-12rep (subiendo carga entre series)",
+                    "url": "https://youtube.com/shorts/M4_2MT6lrP0?feature=share"
                 },
 
                 {
-                    "training_name": "Sentadilla libre",
+                    "training_name": "Estocada trasera con barra",
+                    "description": "4 series de 10rep por pierna",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/GJI-5toedAI?feature=share"
+                },
+
+                {
+                    "training_name": "Press militar de pie con mancuernas o pesas rusas",
                     "description": "4 series de 10-12rep.",
                     "description1": "(Subiendo la carga entre series)",
-                    "url": "https://youtube.com/shorts/b1960dxj5gs?feature=share"
+                    "url": "https://youtu.be/i0AOrXLkAiM"
                 },
 
                 {
-                    "training_name": "Envión de cadera con barra",
+                    "training_name": "Remo con barra con apoyo",
                     "description": "4 series de 10-12rep.",
-                    "description1": "(Subiendo la carga entre series)",
-                    "url": "https://youtube.com/shorts/pMYbVpHtW78?feature=share"
-                },
-
-                {
-                    "training_name": "Estocada estática con mancuernas",
-                    "description": "3 series de 12-15rep por pierna",
                     "description1": "s/i",
-                    "url": "https://youtube.com/shorts/P6pafkyXZyo?feature=share"
-                },
-
-                {
-                    "training_name": "Extensión de cadera en polea",
-                    "description": "3 series de 15rep.",
-                    "description1": "s/i",
-                    "url": "https://youtube.com/shorts/LOR521aNSU8?feature=share"
-                },
-
-                {
-                    "training_name": "Patada de glúteo en poleas",
-                    "description": "3 series de 15rep por pierna",
-                    "description1": "s/i",
-                    "url": "https://youtu.be/co0afG06X84"
-                },
-                
-                {
-                    "training_name": "Abductor con banda elástica",
-                    "description": "3 series de 10rep.",
-                    "description1": "s/i",
-                    "url": "https://youtube.com/shorts/JiAcr40F_bA?feature=share"
+                    "url": "https://youtube.com/shorts/uK7oxb9ZsW4?feature=share"
                 }
-
-
 
             ],   
             
@@ -1205,8 +1201,8 @@
 
                 {
                     "url_hiit":"s/i",
-                    "description": "s/i",
-                    "description1": "s/i"
+                    "description": "Swing 30segundos.",
+                    "description1": "+ 30 segundos de Crunche navaja"
                 }
                 
             ],
@@ -1214,19 +1210,19 @@
             "hiit_list": [
                 
                 {
-                    "hiit":"s/i"
+                    "hiit":"Primer ejercicio 30 segundos"
                 },
 
                 {
-                    "hiit":"s/i"
+                    "hiit":"Segundo ejercicio 30 segundos"
                 }, 
 
                 {
-                    "hiit":"s/i"
+                    "hiit":"20 segundos de descanso"
                 },
 
                 {
-                    "hiit":"s/i"
+                    "hiit":"3 series"
                 }
                     
                 
