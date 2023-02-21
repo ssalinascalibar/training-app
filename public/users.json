@@ -1140,7 +1140,7 @@
         "weight": "56",
         "height": "157",
         "target": "Mejorar postura, flexibilidad, aumentar masa muscular.",
-        "programs":["Entrenamiento 1"],
+        "programs":["Entrenamiento 1", "Entrenamiento 2"],
         
         "programa1":{
             "pro": "Entrenamiento 1",
