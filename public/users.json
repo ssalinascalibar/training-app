@@ -1201,8 +1201,83 @@
 
                 {
                     "url_hiit":"https://youtube.com/shorts/a9GtAgEtcfw?feature=share",
-                    "description": "Swing 30segundos.",
+                    "description": "Swing 30 segundos.",
                     "description1": "+ 30 segundos de Jumping Jacks"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"Primer ejercicio 30 segundos"
+                },
+
+                {
+                    "hiit":"Segundo ejercicio 30 segundos"
+                }, 
+
+                {
+                    "hiit":"20 segundos de descanso"
+                },
+
+                {
+                    "hiit":"3 series"
+                }
+                    
+                
+            ]
+        },
+
+        "programa2":{
+            "pro": "Entrenamiento 2",
+            "warm_up_pro": "false",
+            "warm_up": "5 minutos de remadora",
+            "training": [
+
+                {
+                    "training_name": "Sentadilla libre",
+                    "description": "1 serie de 15rep.",
+                    "description1": "3 series de 8-12rep.(subiendo la carga entre series)",
+                    "url": "https://youtube.com/shorts/b1960dxj5gs?feature=share"
+                },
+
+                {
+                    "training_name": "Envión de caderas con barra",
+                    "description": "3-4 series de 10-12rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/pMYbVpHtW78?feature=share"
+                },
+
+                {
+                    "training_name": "Press banco con barra",
+                    "description": "4 series de 10-12rep. (subiendo la carga entre series)",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/9WotbNzx2vU?feature=share"
+                },
+
+                {
+                    "training_name": "Dominadas agarre cerrado",
+                    "description": "4 series de 10-12rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/hGu6avq8NUg?feature=share"
+                },
+
+                {
+                    "training_name": "Jalón a la cara",
+                    "description": "3 series de 15-20rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/dZG6TQA8dd0?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/-or3_-_kh_8?feature=share",
+                    "description": "Trusther 30 segundos.",
+                    "description1": "+ 30 segundos de Skipping"
                 }
                 
             ],
