@@ -19,15 +19,15 @@ import womanProfile from "../assets/img/woman-profile.svg";
 
 export default function Users() {
   const { userLogged } = useContext(Context);
-  console.log(userLogged);
+  // console.log(userLogged);
 
   const [programa, setPrograma] = useState({});
 
-  console.log(programa);
+  // console.log(programa);
 
   const showProgram = (p) => {
-    console.log(p);
-    console.log(userLogged.programs);
+    // console.log(p);
+    // console.log(userLogged.programs);
     if (p === "Entrenamiento 1") {
       setPrograma(userLogged.programa1);
     } else if (p === "Entrenamiento 2") {
