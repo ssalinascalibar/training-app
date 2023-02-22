@@ -18,7 +18,7 @@ const ContextProvider = ({ children }) => {
         const data = await response.json();
 
         setUsers(data);
-        console.log(data);
+        // console.log(data);
     }
 
     useEffect(() => {
