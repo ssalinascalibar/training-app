@@ -678,7 +678,7 @@
         "weight": "62",
         "height": "166",
         "target": "Aumentar fuerza, mejorar flexibilidad, movilidad y postura",
-        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3", "Entrenamiento 4", "Entrenamiento 5"],
+        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3", "Entrenamiento 4", "Entrenamiento 5", "Entrenamiento 6"],
         
         "programa1":{
             "pro": "Entrenamiento 1",
@@ -944,7 +944,7 @@
         "programa4":{
             "pro": "Entrenamiento 4",
             "warm_up_pro": "false",
-            "warm_up": "10min de bicicleta",
+            "warm_up": "10 minutos de bicicleta",
             "training": [
 
                 {
@@ -1088,6 +1088,81 @@
                     "description": "3 series de 12rep",
                     "description1": "+ 3 series al fallo múscular",
                     "url": "https://youtube.com/shorts/HFGgL0i21rE?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"s/i",
+                    "description": "s/i",
+                    "description1": "s/i"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"s/i"
+                },
+
+                {
+                    "hiit":"s/i"
+                }, 
+
+                {
+                    "hiit":"s/i"
+                },
+
+                {
+                    "hiit":"s/i"
+                }
+                    
+                
+            ]
+        },
+
+        "programa6":{
+            "pro": "Entrenamiento 6",
+            "warm_up_pro": "false",
+            "warm_up": "5 minutos de bicicleta",
+            "training": [
+
+                {
+                    "training_name": "Estocada estática",
+                    "description": "4 series de 10-12rep por pierna",
+                    "description1": "(subiendo la carga entre series)",
+                    "url": "https://youtube.com/shorts/NEpqb8UFI5Y?feature=share"
+                },
+
+                {
+                    "training_name": "Envión de cadera en máquina",
+                    "description": "3-4 series de 10-15rep (subiendo la carga entre series)",
+                    "description1": "Sostener 2 segundos la contracción",
+                    "url": "https://youtube.com/shorts/--flPsPk8Xs?feature=share"
+                },
+
+                {
+                    "training_name": "Banco romano",
+                    "description": "3-4 series de 10-12rep (con carga)",
+                    "description1": "Última serie descendente",
+                    "url": "https://youtube.com/shorts/EMMDu6lDkwY?feature=share"
+                },
+
+                {
+                    "training_name": "Flexión de rodilla acostada",
+                    "description": "2-3 series de 12rep.",
+                    "description1": "Triple descendente",
+                    "url": "https://youtube.com/shorts/u6r2ticUUyU?feature=share"
+                },
+
+                {
+                    "training_name": "Elevación de talón en Smith",
+                    "description": "4 series de 15-20rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/Lnpe8EdjOyg"
                 }
 
             ],   
