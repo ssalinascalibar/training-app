@@ -1215,7 +1215,7 @@
         "weight": "56",
         "height": "157",
         "target": "Mejorar postura, flexibilidad, aumentar masa muscular.",
-        "programs":["Entrenamiento 1", "Entrenamiento 2"],
+        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3"],
         
         "programa1":{
             "pro": "Entrenamiento 1",
@@ -1353,6 +1353,106 @@
                     "url_hiit":"https://youtube.com/shorts/-or3_-_kh_8?feature=share",
                     "description": "Trusther 30 segundos.",
                     "description1": "+ 30 segundos de Skipping"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"Primer ejercicio 30 segundos"
+                },
+
+                {
+                    "hiit":"Segundo ejercicio 30 segundos"
+                }, 
+
+                {
+                    "hiit":"20 segundos de descanso"
+                },
+
+                {
+                    "hiit":"3 series"
+                }
+                    
+                
+            ]
+        },
+
+        "programa3":{
+            "pro": "Entrenamiento 3",
+            "warm_up_pro": "true",
+            "warm_up": [
+                
+                {
+                    "warm_up_name": "Circunducción con banda elástica",
+                    "description": "3 series de 15rep.",
+                    "description1": "s/i",
+                    "description2": "s/i",
+                    "url": "https://youtu.be/RHUaIIcqZUU"
+                },
+
+                {
+                    "warm_up_name": "Retracción escapular con banda elástica",
+                    "description": "3 series de 15rep.",
+                    "description1": "s/i",
+                    "description2": "s/i",
+                    "url": "https://youtu.be/81GO-3DVHiQ"
+                }
+            
+            ],
+            
+            "training": [
+
+                {
+                    "training_name": "Estocada estática Smith + estocada estática con mancuernas",
+                    "description": "4 series de 10-12rep por pierna",
+                    "description1": "(Subiendo carga entre series)",
+                    "url": "https://youtube.com/shorts/TnqKWGHBw3g?feature=share"
+                },
+
+                {
+                    "training_name": "Envión de cadera en máquina",
+                    "description": "3-4 series de 12-15rep (subiendo la carga entre series)",
+                    "description1": "Sostener 2 segundos la contracción",
+                    "url": "https://youtube.com/shorts/--flPsPk8Xs?feature=share"
+                },
+
+                {
+                    "training_name": "Pullover con mancuernas",
+                    "description": "4 series de 10-12rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/-zMFN9TKKMA?feature=share"
+                },
+
+                {
+                    "training_name": "Press banco en el suelo",
+                    "description": "4 series de 12rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/eFZdvuiI0tY?feature=share"
+                },
+
+                {
+                    "training_name": "Jalón a la cara",
+                    "description": "3 series de 15-20rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/dZG6TQA8dd0?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/NGmX-Dprbpc?feature=share",
+                    "description": "Remo con mancuernas 30 segundos.",
+                    "description1": "+ 30 segundos de plancha tocando hombros"
+                },
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/4TA24f4jdPg?feature=share",
+                    "description": "Sentadilla con salto 30 segundos.",
+                    "description1": "+ 30 segundos de Skipping."
                 }
                 
             ],
