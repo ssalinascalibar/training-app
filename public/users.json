@@ -1215,7 +1215,7 @@
         "weight": "56",
         "height": "157",
         "target": "Mejorar postura, flexibilidad, aumentar masa muscular.",
-        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3"],
+        "programs":["Entrenamiento 1", "Entrenamiento 2", "Entrenamiento 3", "Entrenamiento 4"],
         
         "programa1":{
             "pro": "Entrenamiento 1",
@@ -1461,6 +1461,87 @@
                 
                 {
                     "hiit":"Primer ejercicio 30 segundos"
+                },
+
+                {
+                    "hiit":"Segundo ejercicio 30 segundos"
+                }, 
+
+                {
+                    "hiit":"20 segundos de descanso"
+                },
+
+                {
+                    "hiit":"3 series"
+                }
+                    
+                
+            ]
+        },
+
+        "programa4":{
+            "pro": "Entrenamiento 4",
+            "warm_up_pro": "false",
+            "warm_up": "10 min de remadora, nivel 5",
+            "training": [
+
+                {
+                    "training_name": "Extensión de piernas + flexión de piernas acostada o sentada",
+                    "description": "3 series de 15-20rep de cada uno",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/M0ojftrEdnY?feature=share"
+                },
+
+                {
+                    "training_name": "Sentadilla libre",
+                    "description": "1 serie de 12rep.",
+                    "description1": "4 series de 6-8rep. (subiendo la carga entre series)",
+                    "url": "https://youtube.com/shorts/b1960dxj5gs?feature=share"
+                },
+
+                {
+                    "training_name": "Envión de cadera con barra",
+                    "description": "3 series de 10-12rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/pMYbVpHtW78?feature=share"
+                },
+
+                {
+                    "training_name": "Búlgara en Smith",
+                    "description": "3 series de 12-15rep cada ejercicio",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/3yny3TVgjtw?feature=share"
+                },
+
+                {
+                    "training_name": "Abducción con banda elástica",
+                    "description": "3 series de 10rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/JiAcr40F_bA?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/4TA24f4jdPg?feature=share",
+                    "description": "Sentadilla con salto 15rep.",
+                    "description1": "+ 30 segundos de Skipping"
+                },
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/a9GtAgEtcfw?feature=share",
+                    "description": "Swing 15rep.",
+                    "description1": "+ 30 segundos de Jumping Jacks"
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"Primer ejercicio 15 repeticiones"
                 },
 
                 {
