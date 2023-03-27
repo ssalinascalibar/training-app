@@ -1561,6 +1561,122 @@
         }
   
     
+    },
+
+    {
+        "id": "5",
+        "name": "tomas",
+        "last_name": "bravo",
+        "gender": "male",
+        "isPayed": true,
+        "password": "123456",
+        "correo": "tomas.bravo.alfaro@gmail.com",
+        "age": "00",
+        "weight": "102",
+        "height": "170",
+        "target": "Bajar % de grasa. Mejorar capacidades físicas.",
+        "programs":["Entrenamiento 1"],
+        
+        "programa1":{
+            "pro": "Entrenamiento 1",
+            "warm_up_pro": "true",
+            "warm_up": [
+                
+                {
+                    "warm_up_name": "Circunducción de hombros",
+                    "description": "2 series de 15rep.",
+                    "description1": "s/i",
+                    "description2": "s/i",
+                    "url": "https://youtu.be/RHUaIIcqZUU"
+                },
+
+                {
+                    "warm_up_name": "Retracción escapular",
+                    "description": "2 series de 15rep.",
+                    "description1": "s/i",
+                    "description2": "s/i",
+                    "url": "https://youtu.be/81GO-3DVHiQ"
+                }
+            
+            ],
+            
+            "training": [
+
+                {
+                    "training_name": "Press banco plano",
+                    "description": "4 series de 10-12rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/9WotbNzx2vU?feature=share"
+                },
+
+                {
+                    "training_name": "Sentadilla libre",
+                    "description": "4 series de 10-15rep",
+                    "description1": "(subiendo la carga entre series)",
+                    "url": "https://youtube.com/shorts/b1960dxj5gs?feature=share"
+                },
+
+                {
+                    "training_name": "Prensa unilateral",
+                    "description": "4 series de 10-12rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/ba-Fw1G5C20?feature=share"
+                },
+
+                {
+                    "training_name": "Polea alta al pecho",
+                    "description": "4 series de 15rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/AC2Nd5YJTv4?feature=share"
+                },
+
+                {
+                    "training_name": "Polea baja agarre cerrado",
+                    "description": "4 series de 15rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/vdPhbBTfbrg?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/qexwZJ5gF8g?feature=share",
+                    "description": "Swing 30 segundos",
+                    "description1": "+ 30 segundos de plancha tocando hombros"
+                },
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/n8vFPnzLLqY?feature=share",
+                    "description": "Clean a 1 mano 30 segundos",
+                    "description1": "+ 30 segundos de Skipping."
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"Primer ejercicio 30 segundos"
+                },
+
+                {
+                    "hiit":"Segundo ejercicio 30 segundos"
+                }, 
+
+                {
+                    "hiit":"20 segundos de descanso"
+                },
+
+                {
+                    "hiit":"3 series"
+                }
+                    
+                
+            ]
+        }
+
     }
     
 ]
