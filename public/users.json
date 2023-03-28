@@ -1585,7 +1585,7 @@
                 {
                     "warm_up_name": "Circunducción de hombros",
                     "description": "2 series de 15rep.",
-                    "description1": "s/i",
+                    "description1": "1 minuto de descanso entre series",
                     "description2": "s/i",
                     "url": "https://youtu.be/RHUaIIcqZUU"
                 },
@@ -1593,7 +1593,7 @@
                 {
                     "warm_up_name": "Retracción escapular",
                     "description": "2 series de 15rep.",
-                    "description1": "s/i",
+                    "description1": "2 minutos de descanso entre series",
                     "description2": "s/i",
                     "url": "https://youtu.be/81GO-3DVHiQ"
                 }
@@ -1605,35 +1605,35 @@
                 {
                     "training_name": "Press banco plano",
                     "description": "4 series de 10-12rep.",
-                    "description1": "s/i",
+                    "description1": "2 minutos de descanso entre series",
                     "url": "https://youtube.com/shorts/9WotbNzx2vU?feature=share"
                 },
 
                 {
                     "training_name": "Sentadilla libre",
-                    "description": "4 series de 10-15rep",
-                    "description1": "(subiendo la carga entre series)",
+                    "description": "4 series de 10-15rep. (subiendo la carga entre series)",
+                    "description1": "2 minutos de descanso entre series",
                     "url": "https://youtube.com/shorts/b1960dxj5gs?feature=share"
                 },
 
                 {
                     "training_name": "Prensa unilateral",
                     "description": "4 series de 10-12rep.",
-                    "description1": "s/i",
+                    "description1": "2 minutos de descanso entre series",
                     "url": "https://youtube.com/shorts/ba-Fw1G5C20?feature=share"
                 },
 
                 {
                     "training_name": "Polea alta al pecho",
                     "description": "4 series de 15rep.",
-                    "description1": "s/i",
+                    "description1": "2 minutos de descanso entre series",
                     "url": "https://youtube.com/shorts/AC2Nd5YJTv4?feature=share"
                 },
 
                 {
                     "training_name": "Polea baja agarre cerrado",
                     "description": "4 series de 15rep.",
-                    "description1": "s/i",
+                    "description1": "2 minutos de descanso entre series",
                     "url": "https://youtube.com/shorts/vdPhbBTfbrg?feature=share"
                 }
 
@@ -1685,7 +1685,7 @@
                 {
                     "warm_up_name": "Circunducción de hombros",
                     "description": "3 series de 15rep.",
-                    "description1": "s/i",
+                    "description1": "1 minuto de descanso entre series",
                     "description2": "s/i",
                     "url": "https://youtu.be/RHUaIIcqZUU"
                 },
@@ -1693,7 +1693,7 @@
                 {
                     "warm_up_name": "Abducción con banda elástica",
                     "description": "3 series de 10rep por lado",
-                    "description1": "s/i",
+                    "description1": "2 minutos de descanso entre series",
                     "description2": "s/i",
                     "url": "https://youtube.com/shorts/JiAcr40F_bA?feature=share"
                 }
@@ -1705,35 +1705,35 @@
                 {
                     "training_name": "Envión de cadera en máquina",
                     "description": "4 series de 15rep.",
-                    "description1": "s/i",
+                    "description1": "2 minutos de descanso entre series",
                     "url": "https://youtube.com/shorts/--flPsPk8Xs?feature=share"
                 },
 
                 {
                     "training_name": "Press de hombros con mancuernas",
                     "description": "4 series de 15rep",
-                    "description1": "s/i",
+                    "description1": "2 minutos de descanso entre series",
                     "url": "https://youtu.be/i0AOrXLkAiM"
                 },
 
                 {
                     "training_name": "Cruce en poleas",
                     "description": "4 series de 15rep.",
-                    "description1": "s/i",
+                    "description1": "2 minutos de descanso entre series",
                     "url": "https://youtu.be/N2EEM-dl-Ws"
                 },
 
                 {
                     "training_name": "Remo bajo en hammer",
                     "description": "4 series de 15rep por brazo",
-                    "description1": "s/i",
+                    "description1": "2 minutos de descanso entre series",
                     "url": "https://youtube.com/shorts/CJk93fGWBj8?feature=share"
                 },
 
                 {
                     "training_name": "Remo alto en hammer",
                     "description": "4 series de 15rep.",
-                    "description1": "s/i",
+                    "description1": "2 minutos de descanso entre series",
                     "url": "https://youtube.com/shorts/5H53yW5rfNw?feature=share"
                 }
 
