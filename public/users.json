@@ -1575,7 +1575,7 @@
         "weight": "102",
         "height": "170",
         "target": "Bajar % de grasa. Mejorar capacidades físicas.",
-        "programs":["Entrenamiento 1"],
+        "programs":["Entrenamiento 1", "Entrenamiento 2"],
         
         "programa1":{
             "pro": "Entrenamiento 1",
@@ -1651,6 +1651,106 @@
                     "url_hiit":"https://youtube.com/shorts/n8vFPnzLLqY?feature=share",
                     "description": "Clean a 1 mano 30 segundos",
                     "description1": "+ 30 segundos de Skipping."
+                }
+                
+            ],
+
+            "hiit_list": [
+                
+                {
+                    "hiit":"Primer ejercicio 30 segundos"
+                },
+
+                {
+                    "hiit":"Segundo ejercicio 30 segundos"
+                }, 
+
+                {
+                    "hiit":"20 segundos de descanso"
+                },
+
+                {
+                    "hiit":"3 series"
+                }
+                    
+                
+            ]
+        },
+
+        "programa2":{
+            "pro": "Entrenamiento 2",
+            "warm_up_pro": "true",
+            "warm_up": [
+                
+                {
+                    "warm_up_name": "Circunducción de hombros",
+                    "description": "3 series de 15rep.",
+                    "description1": "s/i",
+                    "description2": "s/i",
+                    "url": "https://youtu.be/RHUaIIcqZUU"
+                },
+
+                {
+                    "warm_up_name": "Abducción con banda elástica",
+                    "description": "3 series de 10rep por lado",
+                    "description1": "s/i",
+                    "description2": "s/i",
+                    "url": "https://youtube.com/shorts/JiAcr40F_bA?feature=share"
+                }
+            
+            ],
+            
+            "training": [
+
+                {
+                    "training_name": "Envión de cadera en máquina",
+                    "description": "4 series de 15rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/--flPsPk8Xs?feature=share"
+                },
+
+                {
+                    "training_name": "Press de hombros con mancuernas",
+                    "description": "4 series de 15rep",
+                    "description1": "s/i",
+                    "url": "https://youtu.be/i0AOrXLkAiM"
+                },
+
+                {
+                    "training_name": "Cruce en poleas",
+                    "description": "4 series de 15rep.",
+                    "description1": "s/i",
+                    "url": "https://youtu.be/N2EEM-dl-Ws"
+                },
+
+                {
+                    "training_name": "Remo bajo en hammer",
+                    "description": "4 series de 15rep por brazo",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/CJk93fGWBj8?feature=share"
+                },
+
+                {
+                    "training_name": "Remo alto en hammer",
+                    "description": "4 series de 15rep.",
+                    "description1": "s/i",
+                    "url": "https://youtube.com/shorts/5H53yW5rfNw?feature=share"
+                }
+
+            ],   
+            
+            "hiit_videos": [
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/UMIbWV9ZH3Q?feature=share",
+                    "description": "Remo con mancuernas 30 segundos",
+                    "description1": "+ 30 segundos de escaladores."
+                },
+
+                {
+                    "url_hiit":"https://youtube.com/shorts/HVt6vZmZpPc?feature=share",
+                    "description": "Trusther con mancuernas 30 segundos",
+                    "description1": "+ 30 segundos de Crunche estilo navaja."
                 }
                 
             ],
