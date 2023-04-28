@@ -14,6 +14,8 @@ import banner3 from "../assets/img/banner-3.jpeg";
 import banner4 from "../assets/img/banner-4.jpg";
 import banner5 from "../assets/img/banner-5.jpeg";
 import banner6 from "../assets/img/banner-6.jpeg";
+import banner7 from "../assets/img/banner-7.jpg";
+import banner8 from "../assets/img/banner-8.jpg";
 
 //css
 import home from "../assets/css/home.css";
@@ -28,7 +30,10 @@ export default function Home() {
           <section className="desc-app">
             <div className="row">
               <div className="col-sm-12 col-md-7 col-lg-6">
-                <img src={descAppImg} alt="beneficios de la app Mario Jimenez"/>
+                <img
+                  src={descAppImg}
+                  alt="beneficios de la app Mario Jimenez"
+                />
               </div>
               <div className="col-sm-12 col-md-5 col-lg-6">
                 <div className="list">
@@ -58,8 +63,7 @@ export default function Home() {
           </section>
         </div>
 
-        
-          <section className="banner">
+        {/* <section className="banner">
             <div className="row g-0">
               <div className="col-6 col-lg-3">
                 <img src={banner1} alt="" />
@@ -82,8 +86,26 @@ export default function Home() {
                 <img src={banner6} alt="" />
               </div>
             </div>
-          </section>
-        
+          </section> */}
+
+        <section className="banner">
+          <img src={banner1} alt="" />
+
+          <img src={banner2} alt="" />
+
+          <img src={banner3} alt="" />
+
+          <img src={banner4} alt="" />
+        </section>
+
+        <section className="banner">
+
+          <img src={banner5} alt="" />
+
+          <img src={banner6} alt="" />
+          <img src={banner7} alt="" />
+          <img src={banner8} alt="" />
+        </section>
 
         <div className="container">
           <section className="targets">
@@ -151,7 +173,6 @@ export default function Home() {
             </p>
           </div>
         </article>
-
       </main>
     </div>
   );
