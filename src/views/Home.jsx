@@ -12,7 +12,7 @@ import banner1 from "../assets/img/banner-1.jpeg";
 import banner2 from "../assets/img/banner-2.jpeg";
 import banner3 from "../assets/img/banner-3.jpeg";
 import banner4 from "../assets/img/banner-4.jpg";
-import banner5 from "../assets/img/banner-5.jpeg";
+import banner5 from "../assets/img/banner-5.jpg";
 import banner6 from "../assets/img/banner-6.jpeg";
 import banner7 from "../assets/img/banner-7.jpg";
 import banner8 from "../assets/img/banner-8.jpg";
@@ -88,26 +88,27 @@ export default function Home() {
             </div>
           </section> */}
 
-        <section className="banner">
-          <img src={banner1} alt="" />
-
-          <img src={banner2} alt="" />
-
-          <img src={banner3} alt="" />
-
-          <img src={banner4} alt="" />
+        <section className="section-banner">
+          <h2>Actitud</h2>
+          <div className="banner">
+            <img src={banner1} alt="mario jimenez" />
+            <img src={banner2} alt="mario jimenez" />
+            <img src={banner3} alt="mario jimenez" />
+            <img src={banner4} alt="mario jimenez" />
+          </div>
         </section>
 
-        <section className="banner">
-
-          <img src={banner5} alt="" />
-
-          <img src={banner6} alt="" />
-          <img src={banner7} alt="" />
-          <img src={banner8} alt="" />
+        <section className="section-banner">
+          <h2>Constancia</h2>
+          <div className="banner">
+            <img src={banner5} alt="mario jimenez" />
+            <img src={banner6} alt="mario jimenez" />
+            <img src={banner7} alt="mario jimenez" />
+            <img src={banner8} alt="mario jimenez" />
+          </div>
         </section>
 
-        <div className="container">
+        {/* <div className="container">
           <section className="targets">
             <h4>Entrenamiento personalizado</h4>
             <div className="row mb-2">
@@ -127,11 +128,11 @@ export default function Home() {
               </div>
             </div>
           </section>
-        </div>
+        </div> */}
 
         <div className="container">
           <section className="work-on-you">
-            <h1>Trabaja tu</h1>
+            <h2>Trabaja tu</h2>
             <div className="benefits">
               <i className="fa-solid fa-heart-pulse">
                 <p>Salud</p>
