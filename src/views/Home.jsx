@@ -5,8 +5,6 @@ import NavBar from "../components/NavBar";
 import Header from "../components/Header";
 
 //images
-import target1 from "../assets/img/target-1.jpg";
-import target2 from "../assets/img/target-2.jpg";
 import descAppImg from "../assets/img/img-desc-app.png";
 import banner1 from "../assets/img/banner-1.jpeg";
 import banner2 from "../assets/img/banner-2.jpeg";
@@ -18,7 +16,7 @@ import banner7 from "../assets/img/banner-7.jpg";
 import banner8 from "../assets/img/banner-8.jpg";
 
 //css
-import home from "../assets/css/home.css";
+import "../assets/css/home.css";
 
 export default function Home() {
   return (
