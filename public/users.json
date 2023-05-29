@@ -671,7 +671,7 @@
         "name": "catalina",
         "last_name": "navarrete",
         "gender": "female",
-        "isPayed": false,
+        "isPayed": true,
         "password": "123456",
         "correo": "catalina.ntoro@gmail.com",
         "age": "33",

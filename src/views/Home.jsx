@@ -1,5 +1,8 @@
 import React from "react";
 
+import ReactPlayer from "react-player";
+import video1 from '../assets/videos/video1.mp4'
+
 //components
 import NavBar from "../components/NavBar";
 import Header from "../components/Header";
@@ -173,6 +176,18 @@ export default function Home() {
           </div>
         </article>
       </main>
+
+      <ReactPlayer
+                                  className="react-player"
+                                  playing url={video1}
+                                  type="video/mp4"
+                                  controls
+                                  loop
+                                  volume={0}
+                                  muted={true}
+                                  width="70%"
+                                  height="100%"
+                                />
     </div>
   );
 }
